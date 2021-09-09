@@ -8,3 +8,4 @@ vim hello.txt  创建文件
 hot-fix changed
 第三次修改
 最新的修改
+new-fix2的分枝修改
