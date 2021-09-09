@@ -1,17 +1,8 @@
 hello git
 vim hello.txt  创建文件
 如果文件存在就进入，不存在就创建并进入
-如果文件存在就进入，不存在就创建并进入
-如果文件存在就进入，不存在就创建并进入
-如果文件存在就进入，不存在就创建并进入
 输入a i 进入编辑状态
 输入esc  退出编辑状态
-输入esc  退出编辑状态
 输入:wq 保存退出
-输入:wq 保存退出
-输入:wq 保存退出
-hello git 
-hello git 
-hello git 
-hello git 
-
+按下[cat] 文件名查看指定文件内容
+hot-fix changed
